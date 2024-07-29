@@ -1,2 +1,2 @@
 # mortgage-tool
-Mortgage Tool useful for checking rate details, disaster data, and comparable sales in a given area.
+main_cli.py is the main file. the other files are imported and called in main_cli.py
